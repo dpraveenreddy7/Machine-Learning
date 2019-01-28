@@ -5,11 +5,20 @@ The first day I have started with python programming language.We can know about 
 ](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 Practice few programs everyday as you start learning python.
 
-### Program-1
+### Program
+
+    def Fibonacci(n):
+        a , b = 0 , 1
+        while a<n:
+            print(a,end=" ")
+            a , b = b , a+b
+            
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjA4NTk1Myw4NjgyNjMzNThdfQ==
+eyJoaXN0b3J5IjpbMTA5NjI4OTkwMywxOTYyMDg1OTUzLDg2OD
+I2MzM1OF19
 -->
