@@ -13,16 +13,3 @@ Practice few programs everyday as you start learning python.
             print(a,end=" ")
             a , b = b , a+b
             
-
-
-
-
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA0OTk0NSwxOTYyMDg1OTUzLDg2OD
-I2MzM1OF19
--->
