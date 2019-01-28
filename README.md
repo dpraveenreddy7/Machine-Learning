@@ -23,6 +23,6 @@ Practice few programs everyday as you start learning python.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjI4OTkwMywxOTYyMDg1OTUzLDg2OD
+eyJoaXN0b3J5IjpbLTE3NTA0OTk0NSwxOTYyMDg1OTUzLDg2OD
 I2MzM1OF19
 -->
